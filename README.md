@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nathan Mbicho
-- 👀 a +3yrs experienced Golang Developer
+- 👀 an experienced Golang Developer doing much
 
 <!---
 nathanmbicho/nathanmbicho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
